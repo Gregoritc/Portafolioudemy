@@ -27,7 +27,8 @@ body {
 
 .contenedor {
     max-width: 120rem;
-    margin: 0 auto;
+    margin-inline: 1rem;
+    padding-inline: 1rem;
 }
 .boton {
     background-color: black;
@@ -71,7 +72,7 @@ body {
     border-radius: 1rem;
 }
 .cajas {
-    padding-bottom: 15rem;
+    padding-bottom: 5rem;
 }
 
 .cajas h2 {
